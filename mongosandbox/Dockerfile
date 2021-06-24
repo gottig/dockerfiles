@@ -4,7 +4,7 @@
 # Set the base image to Ubuntu
 FROM ubuntu
 
-MAINTAINER Avinash
+LABEL com.gottig.image.authors="Avinash"
 
 ################## BEGIN INSTALLATION ##################
 # Add package verification key

@@ -1,6 +1,6 @@
 FROM node:6.10.0
 
-MAINTAINER Avinash
+LABEL com.gottig.image.authors="Avinash"
 
 RUN apt-get update -y && apt-get install --no-install-recommends -y -q \
      vim-tiny

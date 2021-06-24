@@ -1,5 +1,5 @@
 FROM debian
-MAINTAINER Avinash
+LABEL com.gottig.image.authors="Avinash"
 
 # Install packages
 ENV DEBIAN_FRONTEND noninteractive

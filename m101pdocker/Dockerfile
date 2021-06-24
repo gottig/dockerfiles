@@ -4,7 +4,7 @@
 # Set the base image to Ubuntu
 FROM ubuntu:14.04
 
-MAINTAINER Avinash
+LABEL com.gottig.image.authors="Avinash"
 
 #ENV MONGO_VERSION 2.6.12
 ENV PYTHON_VERSION python2.7
