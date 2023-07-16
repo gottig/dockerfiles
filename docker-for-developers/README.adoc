@@ -1,0 +1,12 @@
+= Introduction
+
+These set of files are from the O'reilly tutorial on learning docker for developers.
+https://github.com/PacktPublishing/Working-with-Docker-Dockerfile-and-Docker-Compose[Tutorial resources main page]
+
+== Learn about Docker file - Section 4
+This section teaches about building images using a docker file. It also contains simple configurations that can be defined in a docker file.
+https://github.com/PacktPublishing/Working-with-Docker-Dockerfile-and-Docker-Compose/tree/master/Section%2004[Link to Section 4]
+
+== Learn about Docker compose - Section 5
+This section teaches about docker compose and some basic configuration like mounting volumes in docker compose.
+https://github.com/PacktPublishing/Working-with-Docker-Dockerfile-and-Docker-Compose/tree/master/Section%2005[Link to Section 5]
